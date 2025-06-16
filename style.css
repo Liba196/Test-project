@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: black;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 2rem;
+}
